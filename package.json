@@ -1,0 +1,11 @@
+{
+  "name": "paas_tester",
+  "version": "1.2.3",
+  "dependencies": {
+    "express":"2.0.0-izs-modified"
+  },
+  "bundledDependencies": [ "express "],
+  "scripts": {
+    "start": "node server.js"
+  }
+}
